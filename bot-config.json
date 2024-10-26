@@ -1,0 +1,58 @@
+{
+    "prefix": "\/",
+    "dns": "dingo-mc.net",
+    "channels": {
+        "warnings": "1005785826782892113",
+        "mutes": "1005837229760970804",
+        "external_ip": "773584044352471081",
+        "internal_ip": "773583833885835325",
+        "players": "1002479331701964800",
+        "version": "773820617626877984",
+        "ping": "1246424395631820901",
+        "events": "1154113606015799326",
+        "test": "573608138645831743",
+        "ingame_chat": "1198674050776576070"
+    },
+    "versions": [
+        {
+            "name": "Bot Version",
+            "type": "1.1.3"
+        },
+        {
+            "name": "Bot Core",
+            "type": "0.2"
+        },
+        {
+            "name": "Python Version",
+            "type": "3.11.0"
+        },
+        {
+            "name": "Server OS",
+            "type": "Ubuntu 22.04-LTS"
+        },
+        {
+            "name": "dang$$ LWJGL",
+            "type": "3.0.3"
+        },
+        {
+            "name": "dang$$ instance",
+            "type": "umbry-0.20.3-rev.1"
+        },
+        {
+            "name": "akka-core",
+            "type": "akka-dang-0.5.1216db01.py"
+        },
+        {
+            "name": "umbry-core",
+            "type": "umbry-dang-0.1.1524fcb0.py"
+        }
+    ],
+    "commands": [
+        {
+            "name": "version",
+            "arguments": [],
+            "description": "Get information about the bot"
+        }
+    ],
+    "iplocal": "192.168.1.200"
+}
